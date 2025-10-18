@@ -1,0 +1,28 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    line-height: 2.0;
+    color: deepskyblue;
+}
+
+p {
+    line-height: 1.0;
+    color: aliceblue;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+}
+
+img {
+    border: 25px;
+    padding: 15px;
+    margin: 15px;
+}
+
+
+
+
